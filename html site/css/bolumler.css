@@ -1,0 +1,18 @@
+#icerik h3{
+    text-align: center;
+
+}
+a.bolum1{
+    display: block;
+    padding: 10px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+a.bolum{
+    display: block;
+    text-align: justify;
+    color: black;
+    text-decoration: none;
+    float: right;
+}

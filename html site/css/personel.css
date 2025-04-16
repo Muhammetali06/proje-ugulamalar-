@@ -1,0 +1,138 @@
+
+#kucukresim{
+    width: 75px;
+    margin-right: 100px;
+    float: left;
+    margin: 40px;
+  }
+  
+  #adresorta h5,p{
+    text-align: center;
+    color: azure;
+    margin: 15px;
+    padding: 5px;
+  }
+  
+  img.icon{
+    width: 20px;
+  }
+  
+  a.ia{
+    text-align: center;
+    color: azure;
+    text-decoration: none;
+    display: block;
+  }
+  #hakkında2{
+    width: 400px;
+    height: 200px;
+   margin: 20px;
+    float: right;
+  }
+  #hakkında{
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    float: left;
+  }
+  a.bolum{
+    color: black;
+    padding: 25px;
+  
+  }
+  #icerik p{
+    color: black;
+  }
+  #p1{
+    float: right;
+  }
+  
+  #h1i{
+    color: black;
+    text-align: center;
+  }
+  h1.başlıkk{
+    text-align: center;
+    color: #ffc90d; 
+    text-size-adjust: 1.5em;
+  }
+  p.p0{
+    text-align: center;
+    color: black;
+    text-size-adjust: 1em;
+  }
+  h4.başlıkk{
+    text-align: center;
+    color: #ffc90d; 
+    text-size-adjust: 1em;
+  }
+  #icerik h2{
+    text-align: center;
+  
+  }
+  #içerik{
+    width: 1000px;
+    margin: auto;
+    background-color: blanchedalmond;
+    padding: 30PX;
+  }
+  #içerik p{
+    font-size: 1.2em;
+    line-height: 1.5em; 
+    text-align: justify;
+    text-align: 50px;
+  }
+  #içerik li{
+    font-size: 1.2em;
+    line-height: 1.5em; 
+    text-align: justify;
+  }
+    
+  
+  #içerik img.büyük{
+    width: 800px;
+  
+  }
+  #içerik img.küçük{
+   width: 400px;
+   float: left;
+   margin: 25px;
+   border: 2px solid black;
+  
+  }
+  #içerik .kart{
+      width: 300px;
+      height: 420px;
+     border: 1px solid black ;
+     text-align: center;
+     padding:20px ;
+     float: left;
+     margin:20px;
+  }
+  #içerik .kart:hover{
+  background-color: #f9c71c;
+  
+  }
+  #içerik .kart a{
+    text-decoration: none;
+    color: black;
+  }
+  #içerik .kart img{
+     width: 250px;
+     height: 300px;
+     border-radius: 50%;
+     border: 5px solid white;
+     box-shadow: 0px 0px 50px gray;
+  }
+  
+  
+  #içerik .kart  h1.h_ad{ 
+    font-family: 'Courier New', Courier, monospace;
+  font-size: 1.0em;
+  }
+  
+  #içerik .kart  h2.b_ad {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 0.9em;
+  }
+  
